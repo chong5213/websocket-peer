@@ -1,4 +1,4 @@
-# WEbsocket-Peer: A server for PeerJS #
+# Websocket-Peer: A server for PeerJS #
 
 PeerServer helps broker connections between PeerJS clients. Data is not proxied through the server.
 
